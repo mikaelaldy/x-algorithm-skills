@@ -1,12 +1,11 @@
 <p align="center">
+  <strong>Works with</strong><br>
   <a href="https://hermes-agent.nousresearch.com">
-    <img alt="Hermes Agent" src="https://raw.githubusercontent.com/NousResearch/hermes-agent/main/website/static/img/hermes-agent-banner.png" height="56">
+    <img alt="Hermes Agent" src="https://raw.githubusercontent.com/NousResearch/hermes-agent/main/website/static/img/hermes-agent-banner.png" height="40">
   </a>
-</p>
-
-<p align="center">
+  &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/openclaw/openclaw">
-    <img alt="OpenClaw" src="https://raw.githubusercontent.com/openclaw/openclaw/main/docs/assets/openclaw-logo-text.svg" height="48">
+    <img alt="OpenClaw" src="https://raw.githubusercontent.com/openclaw/openclaw/main/docs/assets/openclaw-logo-text.svg" height="36">
   </a>
 </p>
 
@@ -66,7 +65,7 @@ I built these skills to fix common failure modes when using agents to grow on X.
 
 ### #1: The Agent Gives Generic Twitter Advice
 
-**The Problem**: Most advice sounds like “post consistently” or “engage with your audience.” True, but useless.
+**The Problem**: Most advice sounds like "post consistently" or "engage with your audience." True, but useless.
 
 **The Fix**: Use the public X algorithm as a signal map. The skills focus on concrete actions that map to measurable signals: dwell, replies, reposts, shares, profile clicks, follows, and negative feedback avoidance.
 
