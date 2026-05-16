@@ -1,14 +1,12 @@
-<p>
-  <a href="https://github.com/mikaelaldy/x-algorithm-skills">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NousResearch/hermes-agent/main/website/static/img/logo.png">
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NousResearch/hermes-agent/main/website/static/img/logo.png">
-      <img alt="X Algorithm Growth Skills" src="https://raw.githubusercontent.com/NousResearch/hermes-agent/main/website/static/img/logo.png" width="72">
-    </picture>
+<p align="center">
+  <a href="https://hermes-agent.nousresearch.com">
+    <img alt="Hermes Agent" src="https://raw.githubusercontent.com/NousResearch/hermes-agent/main/website/static/img/hermes-agent-banner.png" height="56">
   </a>
-  &nbsp;&nbsp;
+</p>
+
+<p align="center">
   <a href="https://github.com/openclaw/openclaw">
-    <img alt="OpenClaw" src="https://raw.githubusercontent.com/openclaw/openclaw/main/docs/assets/openclaw-logo-text.svg" height="56">
+    <img alt="OpenClaw" src="https://raw.githubusercontent.com/openclaw/openclaw/main/docs/assets/openclaw-logo-text.svg" height="48">
   </a>
 </p>
 
