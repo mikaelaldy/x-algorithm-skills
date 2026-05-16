@@ -287,4 +287,4 @@ Derived from public concepts and code structure in [`xai-org/x-algorithm`](https
 
 ## License
 
-Apache-2.0, to stay compatible with the upstream source material.
+MIT.
