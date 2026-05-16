@@ -5,7 +5,7 @@
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/openclaw/openclaw">
-    <img alt="OpenClaw" src="https://raw.githubusercontent.com/openclaw/openclaw/main/docs/assets/openclaw-logo-text.svg" height="36">
+    <img alt="OpenClaw" src="https://raw.githubusercontent.com/openclaw/openclaw/main/docs/assets/openclaw-logo-text.png" height="36">
   </a>
 </p>
 
