@@ -1,10 +1,10 @@
 {
   "plugins": [
     {
-      "name": "x-algorithm-skills",
-      "description": "Claude Code skills for recommendation-system design based on xAI's X algorithm.",
+      "name": "x-algorithm-growth-skills",
+      "description": "Agent skills for X account growth based on public X algorithm signals.",
       "repository": "https://github.com/mikaelaldy/x-algorithm-skills",
-      "version": "1.0.0"
+      "version": "2.0.0"
     }
   ]
 }
