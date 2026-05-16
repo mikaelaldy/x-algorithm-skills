@@ -1,0 +1,10 @@
+{
+  "name": "x-algorithm-skills",
+  "description": "AI-agent skills distilled from xAI's open-source X For You feed algorithm: retrieval, Phoenix ranking, candidate pipelines, filters, home mixer, ads blending, and Grox content understanding.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Mika Aldy"
+  },
+  "repository": "https://github.com/mikaelaldy/x-algorithm-skills",
+  "license": "Apache-2.0"
+}
