@@ -1,10 +1,14 @@
 {
   "name": "x-algorithm-growth-skills",
-  "description": "AgentSkills-compatible skills for growing an X account using lessons from xAI's public X algorithm: content signals, replies, profile conversion, calendars, analytics, and growth audits.",
-  "version": "2.0.0",
-  "author": {
-    "name": "Mika Aldy"
-  },
-  "repository": "https://github.com/mikaelaldy/x-algorithm-skills",
-  "license": "Apache-2.0"
+  "skills": [
+    "./skills/growth/setup-x-growth-skills",
+    "./skills/growth/x-analytics-loop",
+    "./skills/growth/x-content-calendar",
+    "./skills/growth/x-content-signals",
+    "./skills/growth/x-growth-review",
+    "./skills/growth/x-growth-strategy",
+    "./skills/growth/x-post-audit",
+    "./skills/growth/x-profile-conversion",
+    "./skills/growth/x-reply-growth"
+  ]
 }

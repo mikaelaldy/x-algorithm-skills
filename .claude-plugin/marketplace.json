@@ -4,7 +4,7 @@
       "name": "x-algorithm-growth-skills",
       "description": "Agent skills for X account growth based on public X algorithm signals.",
       "repository": "https://github.com/mikaelaldy/x-algorithm-skills",
-      "version": "2.0.0"
+      "version": "3.0.0"
     }
   ]
 }
